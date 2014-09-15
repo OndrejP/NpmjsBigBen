@@ -1,7 +1,7 @@
 {
   "name": "bigben",
-  "version": "0.0.1",
-  "description": "Dong every minute to npmjs.org",
+  "version": "2014.258.1235",
+  "description": "Dong every 15 minute to npmjs.org",
   "repository": "git@github.com:OndrejP/NpmjsBigBen.git",
   "dependencies": {},
   "engines": {
