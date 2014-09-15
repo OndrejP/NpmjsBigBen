@@ -1,4 +1,6 @@
-NpmjsBigBen
+BigBen
 ===========
 
-Bong every minute to npmjs.org new version of this to check functionality of npmjs.org.
+Bong every minute to npmjs.org. 
+Create new version of this project to check functionality of npmjs.org.
+

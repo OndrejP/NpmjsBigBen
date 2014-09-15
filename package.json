@@ -1,0 +1,10 @@
+{
+  "name": "bigben",
+  "version": "0.0.1",
+  "description": "Dong every minute to npmjs.org",
+  "repository": "git@github.com:OndrejP/NpmjsBigBen.git",
+  "dependencies": {},
+  "engines": {
+    "node": "v0.10.x"
+  }
+}
