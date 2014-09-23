@@ -1,11 +1,9 @@
 
-DELET and STOP
+DELETED AND STOP
 ================
-
-
-
-
-
+###Why?
+* Becauss it's showing on Related Pages.
+* Because it's create virtual download from npmjs mirrors. 
 
 BigBen
 ===========
