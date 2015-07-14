@@ -1,14 +1,14 @@
 
-DELETED AND STOP
+DISABLED
 ================
 ###Why?
 * Becauss it's showing on Related Pages.
-* Because it's create virtual download from npmjs mirrors. 
+* Because it's create virtual download from npmjs mirrors . 
 
 BigBen
 ===========
 
-Bong every 15 minutes to npmjs.org.
+Dong every 15 minutes to npmjs.org.
 Create new version of this project to check functionality of npmjs.org.
 
 Version style: 
